@@ -30,7 +30,8 @@ python app.py
 
 Below is an example of how `VIsionAI` can process an image:
 
-![VIsionAI Example](vision-ai-app/VIsionAI/imgs/A close-up, detailed and photo-realistic image of _20231017-232101.png)
+![VIsionAI Example](./imgs/Human playing Skateboard in the park_20231017-232605.png)
+
 
 ### Contributing
 
