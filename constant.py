@@ -1,3 +1,3 @@
 
 
-openai_key = "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"
+openai_key = "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"
